@@ -1,3 +1,4 @@
+<img src="https://github.com/Lohit244/Lohit244/blob/main/giphy.gif?raw=true"  display=block width=100% height=auto  alt="1" >
 # Hi, I’m Lohitaksha Malhotra
 
 <h3 align="left">Connect with me 🔗</h3>
