@@ -20,7 +20,14 @@
 # Profile Overview 🙂
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohit244&theme=monokai"  display=block width=100% height=auto  alt="1" >
+<table>
+  <tr>
+    <td>
+      ![profile views](https://gpvc.arturio.dev/lohit24)
+    </td>
+    <td>
+      ![visitors](https://visitor-badge.glitch.me/badge?page_id=lohit244)
+    </td>
+  </tr>
+</table>
 
-![profile views](https://gpvc.arturio.dev/lohit24)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lohit244)
