@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td>
-      profile views:  <img src = "https://gpvc.arturio.dev/lohit244" alt = "?" />
+      profile views 
     </td>
     <td>
-      visitors: <img src = "https://visitor-badge.glitch.me/badge?page_id=lohit244" alt = "?"/>
+      <img src = "https://gpvc.arturio.dev/lohit244" alt = "?" />
     </td>
   </tr>
 </table>
