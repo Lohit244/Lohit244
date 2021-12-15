@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td>
-      ![profile views](https://gpvc.arturio.dev/lohit24)
+      profile views:  <img src = "https://gpvc.arturio.dev/lohit244" alt = "?" />
     </td>
     <td>
-      ![visitors](https://visitor-badge.glitch.me/badge?page_id=lohit244)
+      visitors: <img src = "https://visitor-badge.glitch.me/badge?page_id=lohit244" alt = "?"/>
     </td>
   </tr>
 </table>
