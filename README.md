@@ -2,8 +2,8 @@
 <div align="center">
 <img src="https://github.com/Lohit244/Lohit244/blob/main/giphy.gif?raw=true" align="center" display=block width=80% height=auto alt="1" >
 <br></br>
-<h3 align="left">Connect with me 🔗</h3>
-<p align="left">
+<h3 align="center">Connect with me 🔗</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/lohitaksha-malhotra-b84392201/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alok-mathur-5aab4534" /></a>
 <a href="mailto:lohit244@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
 </p>
