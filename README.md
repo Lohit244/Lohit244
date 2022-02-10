@@ -8,6 +8,7 @@
 <a href="mailto:lohit244@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
 </p>
 </div>
+
 # My Stats 📈
 
 <table>
