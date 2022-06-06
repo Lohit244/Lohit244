@@ -1,5 +1,5 @@
-# Hi, I’m Lohitaksha Malhotra
 <div align="center">
+  <h1>Hi, I’m Lohitaksha Malhotra</h1>
 <img src="https://github.com/Lohit244/Lohit244/blob/main/giphy.gif?raw=true" align="center" display=block width=80% height=auto alt="1" >
 <br></br>
 <h3 align="center">Connect with me 🔗</h3>
