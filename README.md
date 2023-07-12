@@ -21,14 +21,6 @@
 # Profile Overview 🙂
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohit244&theme=monokai"  display=block width=100% height=auto  alt="1" >
-<table>
-  <tr>
-    <td>
-      <img src = "https://gpvc.arturio.dev/lohit244" alt = "?" />
-    </td>
-    <td>
-      <img src = "https://visitor-badge.glitch.me/badge?page_id=lohit244" alt= "?" />
-    </td>
-  </tr>
-</table>
+
+![](https://komarev.com/ghpvc/?username=Lohit244)
 
